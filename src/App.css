@@ -1,0 +1,31 @@
+
+.App {
+    text-align: center;
+    align-items: center;
+    padding-top: 1.5rem;
+    width: 20em;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: -8px 14px 19px 5px #465d645e;
+  }
+
+.QRcode {
+  border-radius: 20px;
+  width: 250px;
+  height: 250px;
+}
+
+.mainbody {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+    background-color: lightblue;
+
+}
+
+.header-text {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
